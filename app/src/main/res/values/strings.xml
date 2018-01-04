@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OkHttp</string>
+    <string name="edit_message">Entermessage</string>
+    <string name="button_send">Send</string>
+    <string name="second_button">button click</string>
+    <string name="create_confetti">Party!!</string>
+</resources>
